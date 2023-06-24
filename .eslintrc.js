@@ -12,7 +12,7 @@ const WARNING = 1;
 const ERROR = 2;
 
 module.exports = {
-  extends: ['prettier'],
+  extends: ['prettier', 'confusing-browser-globals'],
 
   // Stop ESLint from looking for a configuration file in parent folders
   root: true,
