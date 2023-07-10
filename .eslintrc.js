@@ -11,7 +11,9 @@ const OFF = 0;
 const WARNING = 1;
 const ERROR = 2;
 coverage/
-module.exports = {
+module.exports = {/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+
   extends: ['prettier', 'confusing-browser-globals'],
 
   // Stop ESLint from looking for a configuration file in parent folders
