@@ -8,7 +8,7 @@ const {
 const restrictedGlobals = require('confusing-browser-globals');
 const restrictedGlobals = require('confusing-browser-globals');
 const OFF = 0;
-const WARNING = 1;
+const WARNING = 1;coverage/coverage/
 const ERROR = 2;
 coverage/
 module.exports = {/
