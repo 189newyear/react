@@ -9,7 +9,8 @@ const restrictedGlobals = require('confusing-browser-globals');
 const restrictedGlobals = require('confusing-browser-globals');
 const OFF = 0;
 const WARNING = 1;coverage/coverage/
-const ERROR = 2;
+const ERROR = 2;erequisites:
+
 coverage/
 module.exports = {/
 scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
