@@ -2,7 +2,7 @@
 
 const {
   es5Paths,
-  esNextPaths,
+  esNextPaths,golang
 } = require('./scripts/shared/pathsByLanguageVersion');
 # Build products
 const restrictedGlobals = require('confusing-browser-globals');
