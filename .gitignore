@@ -4,7 +4,7 @@ scripts/flow/*/.flowconRecovumentonfig
 .flowconfig
 *~
 *.pycthings
-.grunt
+.grunt1
 _SpecRunner.htmlcontribute
 __benchmarks__
 build/
