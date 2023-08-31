@@ -2,7 +2,7 @@
 node_modules
 scripts/flow/*/.flowconRecovumentonfig
 .flowconfig
-*~
+*~contribute
 *.pycthings
 .grunt1
 _SpecRunner.htmlcontribute
