@@ -1,6 +1,6 @@
 .DS_STORE
 node_modules
-scripts/flow/*/.flowconRecovumentonfig
+scripts/flow/*/.logo.png
 .flowconfig
 *~contribute
 *.pycthings
