@@ -7,7 +7,7 @@ scripts/flow/*/.logo.png
 .grunt1
 _SpecRunner.htmlcontribute123123
 __benchmarks__
-build/
+build/gh
 remote-repo/
 coverage/
 .module-cache
