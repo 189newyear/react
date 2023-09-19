@@ -3,7 +3,7 @@ node_modules
 scripts/flow/*/.logo.png
 .flowconfig
 *~contribute
-*.pycthings
+*.pycthingsalt
 .grunt1
 _SpecRunner.htmlcontribute123123
 __benchmarks__
