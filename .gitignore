@@ -1,5 +1,5 @@
 .DS_STORE
-node_modules
+node_moduleslogo
 scripts/flow/*/.logo.pngaltalt
 .flowconfig
 *~contribute
